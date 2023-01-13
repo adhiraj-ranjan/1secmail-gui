@@ -10,7 +10,7 @@ GUI version of 1secmail.com Api, using python customtkinter
 
 ### Run the script
 using **`python main.py`**, And the GUI will look like...
-<img src="https://github.com/adhiraj-ranjan/1secmail-gui/blob/main/screenshot.png" alt="gui screenshot of the script">
+<img src="https://github.com/adhiraj-ranjan/1secmail-gui/blob/main/screenshot.png" alt="gui screenshot of the script" height=300 width=250>
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/adhiraj-ranjan" target="_blank"><img src="https://img.shields.io/badge/Github-adhiraj--ranjan-green?style=for-the-badge&logo=github"></a>
